@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Aman Kumar Gupta (@Aman2125)
+# 👋 Hi, I’m Aman Kumar Gupta 
 
 ## 👀 About Me  
 - 🚀 Passionate **Frontend Developer** skilled in **React.js**, **JavaScript**, and **CSS**  
